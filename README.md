@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Julián Arango Correa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=1000&lines=Arquitecto+de+Software+%C2%B7+Cloud+%C2%B7+Inteligencia+Artificial+%C2%B7+L%C3%ADder+T%C3%A9cnico;Dise%C3%B1o+sistemas+distribuidos%2C+arquitecturas+cloud+y+soluciones+de+IA;Construyo+software+escalable%2C+resiliente+y+orientado+al+negocio;Explorando+Agentic+Systems%2C+AI+Automation+y+LLM+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00B8F0&center=true&vCenter=true&width=1000&lines=Arquitecto+de+Software+%C2%B7+Cloud+%C2%B7+Inteligencia+Artificial+%C2%B7+L%C3%ADder+T%C3%A9cnico;Dise%C3%B1o+sistemas+distribuidos%2C+arquitecturas+cloud+y+soluciones+de+IA;Construyo+software+escalable%2C+resiliente+y+orientado+al+negocio;Explorando+Agentic+Systems%2C+AI+Automation+y+LLM+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -163,5 +163,7 @@ Si te interesan la **Arquitectura de Software, Cloud, Inteligencia Artificial, a
 <br/>
 
 **Gracias por visitar mi perfil 👋**
+
+🏴‍☠️ **JAC** 🏴‍☠️
 
 </div>
